@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/social-links-profile-main-with-react/static/css/main.758aa480.css",
+    "main.js": "/social-links-profile-main-with-react/static/js/main.ed7e3282.js",
+    "static/js/453.79e51dc8.chunk.js": "/social-links-profile-main-with-react/static/js/453.79e51dc8.chunk.js",
+    "static/media/Red_Color.png": "/social-links-profile-main-with-react/static/media/Red_Color.3f9071503bbabc06c011.png",
+    "index.html": "/social-links-profile-main-with-react/index.html",
+    "main.758aa480.css.map": "/social-links-profile-main-with-react/static/css/main.758aa480.css.map",
+    "main.ed7e3282.js.map": "/social-links-profile-main-with-react/static/js/main.ed7e3282.js.map",
+    "453.79e51dc8.chunk.js.map": "/social-links-profile-main-with-react/static/js/453.79e51dc8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.758aa480.css",
+    "static/js/main.ed7e3282.js"
+  ]
+}
